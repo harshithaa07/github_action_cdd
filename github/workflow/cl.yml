@@ -19,3 +19,11 @@ jobs:
 
       - name: Run Python program
         run: python hello.py
+
+      - name: Run Python program
+        run: python calculator.py
+
+      - name: Run Python program
+        run: python testcalculator.py
+
+      
